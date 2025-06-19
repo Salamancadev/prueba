@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de salida
+output/
+*.png
+
+# Archivos de VSCode (opcional)
+.vscode/
